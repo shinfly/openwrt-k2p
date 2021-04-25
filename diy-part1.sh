@@ -18,4 +18,4 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 git clone https://github.com/pymumu/smartdns.git package/smartdns
 git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 git clone https://github.com/pymumu/openwrt-smartdns.git package/openwrt-smartdns
-src-git lienol https://github.com/Lienol/openwrt-package
+git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
